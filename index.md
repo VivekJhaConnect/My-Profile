@@ -4,6 +4,16 @@ I have 3+ years of experience as a Machine Learning Engineer & developing highly
 
 8+ years of experience in Mobile application & game development and support.
 
+### LANGUAGES & TECHNICAL SKILLS
+- Language: Python, Java, Kotlin & Dart
+- Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow & Keras
+- Data Science, Data Analysis, Machine Learning, Deep Learning, Artificial Intelligence & Computer Vision
+- Sound knowledge of Data Structure, Algorithm, High-Level System Design Pattern & Low-Level System Design Pattern
+- Mobile Technologies: Android & Flutter
+- Database: MySQL
+- Software Tools: Ms-Excel, Word, Jupyter Notebook, Google Colab, Android Studio & Visual Studio Code
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
