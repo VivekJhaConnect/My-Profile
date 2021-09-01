@@ -1,8 +1,8 @@
 ## Vivek Kumar Jha
 
-You can use the [editor on GitHub](https://github.com/vivekjha542/My-Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I have 3+ years of experience as a Machine Learning Engineer & developing highly scalable Data Science & Machine Learning/Deep Learning-based applications and services and,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+8+ years of experience in Mobile application & game development and support.
 
 ### Markdown
 
