@@ -13,6 +13,8 @@ I have 3+ years of experience as a Machine Learning Engineer & developing highly
 - Database: MySQL
 - Software Tools: Ms-Excel, Word, Jupyter Notebook, Google Colab, Android Studio & Visual Studio Code
 
+### EXPERIENCE (8 YEARS 2 MONTHS)
+
 
 ### Markdown
 
