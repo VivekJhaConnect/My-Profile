@@ -20,7 +20,7 @@ Docfocus INC, Alberta, Canada Machine Learning Engineer (Remote)(FEB 2018 - AUG 
 - Using python and its libraries create a document classification model, reading different invoices and stored in the database. Using machine learning and statistical modelling techniques to develop and evaluate algorithms to improve performance, quality, data management and accuracy. 
 
 **Project**
-    Invoice Processing & Taxonomy:
+    ### Invoice Processing & Taxonomy:
       - Worked as Lead Developer to create model and API for Mobile Apps, Desktop Application to mack to use our documentation service.
       - Created a document classification model for categories invoices and read the invoice data to save in our database and create invoice approval process.
 
