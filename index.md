@@ -14,6 +14,16 @@ I have 3+ years of experience as a Machine Learning Engineer & developing highly
 - Software Tools: Ms-Excel, Word, Jupyter Notebook, Google Colab, Android Studio & Visual Studio Code
 
 ### EXPERIENCE (8 YEARS 2 MONTHS)
+Docfocus INC, Alberta, Canada (FEB 2018 - AUG 2021)
+Machine Learning Engineer (Remote)
+
+- Working to design & develop a model and application for Document and Security based solutions using Artificial Intelligence and providing existing mobile application enhancement and support. 
+- Using python and its libraries create a document classification model, reading different invoices and stored in the database. Using machine learning and statistical modelling techniques to develop and evaluate algorithms to improve performance, quality, data management and accuracy. 
+**Project**
+    Invoice Processing & Taxonomy:
+      - Worked as Lead Developer to create model and API for Mobile Apps, Desktop Application to mack to use our documentation service.
+      - Created a document classification model for categories invoices and read the invoice data to save in our database and create invoice approval process.
+
 
 
 ### Markdown
