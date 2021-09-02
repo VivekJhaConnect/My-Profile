@@ -21,9 +21,17 @@ Docfocus INC, Alberta, Canada Machine Learning Engineer (Remote)(FEB 2018 - AUG 
 
 **Project**
 
-   Invoice Processing & Taxonomy:
-     - Worked as Lead Developer to create model and API for Mobile Apps, Desktop Application to mack to use our documentation service.
-     - Created a document classification model for categories invoices and read the invoice data to save in our database and create invoice approval process.
+    Invoice Processing & Taxonomy:
+      - Worked as Lead Developer to create model and API for Mobile Apps, Desktop Application to mack to use our documentation service.
+      - Created a document classification model for categories invoices and read the invoice data to save in our database and create invoice approval process.
+      
+    DataIT-ETP(Extraction Transform Prediction):
+      - Worked as Lead Developer and created an auto model and tried to find data leak in any given data set and perform EDA(Exploratory Data Analysis) and also             used different algorithms to predict the result. I was responsible for managing the production environment.
+      - Using Python and its library creates multiple algorithm models and performs the operation on given data. 
+      
+    AdminIT:
+      - Worked as a developer to create apps for internal use like remove manual folder creation under server folder, create excel file and upload in our folder             structure, upgrade setup file and licence file in one or multiple folders at single fields of changes.
+      - Used Android SDK and Server libraries(FTP, Windows/Linux File Server, Google Drive Server), also used Data Structure and Algorithm to update data on server         folders files.
 
 
 
