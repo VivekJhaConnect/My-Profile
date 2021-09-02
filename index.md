@@ -33,36 +33,60 @@ Docfocus INC, Alberta, Canada Machine Learning Engineer (Remote)(FEB 2018 - AUG 
       - Worked as a developer to create apps for internal use like remove manual folder creation under server folder, create excel file and upload in our folder             structure, upgrade setup file and licence file in one or multiple folders at single fields of changes.
       - Used Android SDK and Server libraries(FTP, Windows/Linux File Server, Google Drive Server), also used Data Structure and Algorithm to update data on server         folders files.
 
+Logix Shapers Offshore Services Pvt. Ltd., Noida, India - Sr. Software Developer(JULY 2015 - JAN 2018)
 
+- Worked as Lead Developer to provide the solution for his mobile app in the document and security industry for his client(Docfocus INC). 
+- I had created an app without using Web service to Sync data from local to server(FTP, Windows/Linux File Server, Google Drive Server and Device as a server). 
 
-### Markdown
+**Project**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    SignIT-ADG(PI & P2):
+      - Worked as a Lead Developer and multiple apps for different clients and features and created annotation for add/edit PDF annotation, manage servers,                 documentation, testing and production(On Google Drive)
+      - Using Android SDK and Server libraries(FTP, Windows/Linux File Server, Google Drive Server) create without web services app and sync data from server to             local device. This app is working offline. SignIT has responsive UI for Mobile and Tablet.
+      
+    ScanIT-ASG:
+      - I worked as Lead Developer to create an app for capturing document images and converting to the PDF file and reverting back supported applications                   like(SignIT, AdminIT and other desktop and web applications), also maintaining servers and app production.
+      - Using Android ADK and Server libraries(FTP, Windows/Linux File Server, Google Drive Server) to capture image and PDF documents and upload them to the server        folder for other apps, I used Camera+ API for capturing images.
+      
+    Medicare: 
+      - I worked as Lead Developer and created an app for maintaining pills & hospital management. This app will work for single, multiple and all the patients in           the hospital. We can also manage hospital appointments, write diaries, add measurements and manage doctors and user profiles.
+      - Using Android SDK and Realm database, we don’t use web service for uploading data, for store database(.realm file)  backup using Server libraries(FTP,               Windows/Linux File Server, Google Drive Server). 
+      
+    Sports Evaluator Tool(SET):  
+      - I worked as a developer and created an app to fill the excel sheets fields, create responsible and dynamic UI to depend upon Excel data and sync data with           servers.
+      - Using Android SDK and downloading data in CSV format from servers(FTP, Windows/Linux File Server, Google Drive Server) and fill the data in .csv file and           upload on the server excel files.
 
-```markdown
-Syntax highlighted code block
+    DBLive: 
+      - Worked as Lead Developer to create an app(Android & iOS) for DeshBandhu News, Collaborate with the API team and created responsible API and Design, also             manage production and documentation of this project.
+      - Used Android SDK and third-party libraries(Google+, Facebook, FFMPEG(Video), YouTube API for live streaming  and other libraries) to create apps
 
-# Header 1
-## Header 2
-### Header 3
+BlackLight Studio Works Pvt. Ltd., Noida, India - Software Developer(AUG 2014 - JULY 2015)
 
-- Bulleted
-- List
+- Worked as a developer to develop word and puzzle-based android game apps. 
+- I had to create a flexible design for all sizes of screens and create a puzzle algorithm to show the words in the grid. 
 
-1. Numbered
-2. List
+**Project**
 
-**Bold** and _Italic_ and `Code` text
+    Word Search:
+      - Working as a developer and creating multiple types of word search and find games, I have written an algorithm to place the words on the and grid and               maintain the production.
+      - Using Android SDK and Material Design and third party libraries(Google+, Facebook, Twitter) create all 3 apps and create responsive screens in all sizes of         devices.
+      
+    Kuku Kube Puzzle: Oddy Colors:
+      - Working as a developer and creating an app for the eye is able to find odd colours or not after completing the game we will provide the status of focus and         acuity of the eyes.
+      - Used Android SDK and Material Design created this game and used third party API(Google+ for login and leaderboard, Facebook for login and share score post,         Twitter for login and share score post) and created responsive screens in all sizes of device.
+      
+Appbulous Software Pvt. Ltd., Noida, India - Software Developer(JUNE 2013 - JUNE 2014)
 
-[Link](url) and ![Image](src)
-```
+- Worked as a developer to develop word puzzle and image animation based android game apps. 
+- I had to create a flexible design for all sizes of screen and create a hint word algorithm to show with the hint and animate on the basis of the hint wrong. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Project**
 
-### Jekyll Themes
+    Hangman:
+      - Worked as a developer and did the coding on the instruction of the team lead and Manager, I was also responsible to test the application for production and         create releases for Google Store, Samsung Store & Amazon Store.
+      - Used Android SDK Animation classes and custom classes for Animate Images and used third party SDK(Google+, Facebook, Twitter).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivekjha542/My-Profile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### ACADEMIC DETAILS
+- Master of Computer Application(MCA) in Computer Application from Jaipur National University, Rajasthan in 2015
+- Bachelor of Computer Application(BCA) in Computer Application from Magadh University, Bihar in 2013
+   
